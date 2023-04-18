@@ -1,0 +1,17 @@
+How to Play:
+Move:		
+		select Position 1 (Source)
+		select Position 2 (Target)
+Delete Items:		
+		select Position 1 (Source)
+		select the Shredder (on the Right)
+Add Mission:
+		select The Butten Left to your Missions
+Delete Mission:	
+		select The Butten Right to your Missions
+Store items:
+		select your Mission (Source)
+		select your target position
+extract items:
+		select your Item (From the Shelf)
+		select your Mission

@@ -1,0 +1,61 @@
+object Bilanz: TFGUIForm
+  Left = 0
+  Top = 84
+  BorderIcons = [biSystemMenu]
+  Caption = 'Bilanz'
+  ClientHeight = 741
+  ClientWidth = 1184
+  Color = 4144959
+  ParentFont = True
+  FormStyle = fsStayOnTop
+  OldCreateOrder = True
+  Position = poDesigned
+  ShowHint = True
+  Visible = True
+  OnClose = FormClose
+  OnCloseQuery = FormCloseQuery
+  OnMouseActivate = FormMouseActivate
+  OnResize = FormResize
+  FrameType = 5
+  Modified = False
+  Resizable = False
+  Undecorated = False
+  Background = 4144959
+  PixelsPerInch = 96
+  TextHeight = 13
+  object BilazTab: TJTable
+    Tag = 19
+    Left = 31
+    Top = 1
+    Width = 1100
+    Height = 780
+    Hint = 'jTable1'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Dialog'
+    Font.Style = []
+    Foreground = 3355443
+    Background = 4210752
+    RowHeight = 16
+    ShowHorizontalLines = True
+    ShowVerticalLines = True
+    ShowGrid = True
+    Columns.Strings = (
+      'Title 1'
+      'Title 2'
+      'Title 3'
+      'Title 4'
+      'Title 5')
+    ColCount = 4
+    RowCount = 100
+    FillsViewportHeight = False
+    AutoCreateRowSorter = False
+    RowSelectionAllowed = True
+    ColumnSelectionAllowed = False
+    CellSelectionEnabled = False
+    DragEnabled = False
+    HorizontalScrollBarPolicy = ALWAYS
+    VerticalScrollBarPolicy = ALWAYS
+  end
+end

@@ -1,0 +1,3 @@
+Ich habe das Programm leider nicht gut hinbekommen, da ich das UI aus irgendeinem Grund nicht hinbekomme. Selbst mit ca. 5h Googeln komm ich auf keine Antwort die irgendwas bringt. Ich habe das UI mit Hilfe von Java-editor erstellt und auf IntelliJ übertragen um damit weiter zu Arbeiten. Jedoch hat dies nicht gut Funktioniert, wahrscheinlich auf Grund von fehlenden Vorkenntnissen. Leider hat mir die Zeit am Ende nicht mehr gereicht, unteranderem Weil mich die 2 Impfung für ein paar Tage außer gefacht gesetzt hat. 
+TLDR.:
+Ich hatte keine Vorkenntnisse und kam nicht mit den Fehlern klar auf Grund von schlechtem Zeitmanagements und Spontanem Ausfall (Impfung wurde am Gleichen Tag angekündigt).
